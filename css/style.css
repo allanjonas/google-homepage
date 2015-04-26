@@ -1,7 +1,7 @@
 body{
         position: absolute;
         top: 34%;
-        left: 60%;
+        left: 57.5%;
         margin:auto;
         transform: translate(-50%, -50%);
 }
@@ -23,7 +23,7 @@ font-size:14pt;
   padding: .65em;
   background-color: rgba(0,0,0,.1);
   border: 1px solid #dcdcdc;
-  font-size:11px/27px;
+  font-size:small;
   font-family: Arial, sans-serif;
 }
 
